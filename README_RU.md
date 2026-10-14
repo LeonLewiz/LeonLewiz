@@ -57,6 +57,6 @@ $ tree ~/profile
 
 [![Telegram](https://img.shields.io/badge/Telegram-58a6ff?style=flat-square&logo=telegram&logoColor=000000)](https://t.me/leonlewiz)
 &nbsp;
-[![Email](https://img.shields.io/badge/Email-58a6ff?style=flat-square&logo=gmail&logoColor=000000)](mailto:your@email.com)
+[![Email](https://img.shields.io/badge/Email-58a6ff?style=flat-square&logo=gmail&logoColor=000000)](mailto:vostro501@gmail.com)
 
 </div>
