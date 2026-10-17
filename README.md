@@ -14,7 +14,6 @@ Three years of Windows administration, started at 14. Now I run a home lab that 
 $ tree ~/profile
 
 ├── languages .... Russian (native) · English (B2)
-├── currently .... migrating platform to Terraform + Cloud
 ├── education .... ITMO University, 2027
 └── status ....... open to DevOps internships from the 2nd year
 ```
@@ -30,11 +29,11 @@ $ tree ~/profile
 
 ## Project
 
-**[platform](https://github.com/LeonLewiz/platform)** — a Kubernetes cluster with a complete observability stack: Prometheus, Alertmanager, Grafana and Jaeger tracing. Being rewritten in Terraform for a move to Yandex Cloud.
+**[mood-app](https://github.com/LeonLewiz/mood-app)** - a Kubernetes cluster with a complete observability stack: Prometheus, Alertmanager, Grafana and Tempo tracing.
 
 <div align="center">
-  <a href="https://github.com/LeonLewiz/platform">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LeonLewiz&repo=platform&hide_border=true&bg_color=000000&title_color=e6edf3&text_color=8b949e&icon_color=58a6ff" alt="platform">
+  <a href="https://github.com/LeonLewiz/mood-app">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LeonLewiz&repo=mood-app&hide_border=true&bg_color=000000&title_color=e6edf3&text_color=8b949e&icon_color=58a6ff" alt="mood-app">
   </a>
 </div>
 
