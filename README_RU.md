@@ -14,7 +14,6 @@
 $ tree ~/profile
 
 ├── языки ........ русский (родной) · английский (B2)
-├── сейчас ....... переношу platform на Terraform + Облако
 ├── учёба ........ ИТМО, 2027
 └── статус ....... открыт к стажировкам со 2 курса
 ```
@@ -30,11 +29,11 @@ $ tree ~/profile
 
 ## Проект
 
-**[platform](https://github.com/LeonLewiz/platform)** - кластер Kubernetes с полным стеком наблюдаемости: Prometheus, Alertmanager, Grafana и трейсинг Jaeger. Переписывается на Terraform для переезда в Облако.
+**[mood-app](https://github.com/LeonLewiz/mood-app)** - кластер Kubernetes с полным стеком наблюдаемости: Prometheus, Alertmanager, Grafana и трейсинг Tempo.
 
 <div align="center">
-  <a href="https://github.com/LeonLewiz/platform">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LeonLewiz&repo=platform&hide_border=true&bg_color=000000&title_color=e6edf3&text_color=8b949e&icon_color=58a6ff" alt="platform">
+  <a href="https://github.com/LeonLewiz/mood-app">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LeonLewiz&repo=mood-app&hide_border=true&bg_color=000000&title_color=e6edf3&text_color=8b949e&icon_color=58a6ff" alt="mood-app">
   </a>
 </div>
 
