@@ -23,7 +23,7 @@ $ tree ~/profile
 | | |
 |---|---|
 | **Инфраструктура** | Kubernetes · Helm · Terraform · Ansible · Docker |
-| **Наблюдаемость** | Prometheus · Alertmanager · Grafana · Jaeger · Tempo |
+| **Наблюдаемость** | Prometheus · Alertmanager · Grafana · ~~Jaeger~~ · Tempo |
 | **CI/CD · Облака** | GitHub Actions · Yandex Cloud |
 | **Скриптинг** | Bash · Python · C++ |
 
