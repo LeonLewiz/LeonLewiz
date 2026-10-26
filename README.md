@@ -14,8 +14,7 @@ Three years of Windows administration, started at 14. Now I run a home lab that 
 $ tree ~/profile
 
 ├── languages .... Russian (native) · English (B2)
-├── education .... ITMO University, 2027
-└── status ....... open to DevOps internships from the 2nd year
+└── education .... 11th Grade, 2026
 ```
 
 ## Stack
@@ -23,7 +22,7 @@ $ tree ~/profile
 | | |
 |---|---|
 | **Infrastructure** | Kubernetes · Helm · Terraform · Ansible · Docker |
-| **Observability** | Prometheus · Alertmanager · Grafana · Jaeger · Tempo |
+| **Observability** | Prometheus · Alertmanager · Grafana · ~~Jaeger~~ · Tempo |
 | **CI/CD · Cloud** | GitHub Actions · Yandex Cloud |
 | **Scripting** | Bash · Python · C++ |
 
