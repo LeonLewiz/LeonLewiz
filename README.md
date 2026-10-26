@@ -15,6 +15,7 @@ $ tree ~/profile
 
 ├── languages .... Russian (native) · English (B2)
 └── education .... 11th Grade, 2026
+└── status    .... Open to Internships from 2nd year (2028)
 ```
 
 ## Stack
